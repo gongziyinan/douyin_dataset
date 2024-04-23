@@ -1,1 +1,2 @@
 video_post.zip filter=lfs diff=lfs merge=lfs -text
+target_directory filter=lfs diff=lfs merge=lfs -text
